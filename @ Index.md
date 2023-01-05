@@ -16,6 +16,21 @@
 
 ## [[9. Loops]]
 
+## [[10 - Harder Practice Exercises]]
+
+## [[11 - Prototypes, this, new and Inheritance]]
+
+## [[12 - Advanced Flow Control]]
+
+## [[13 - Ajax and Fetching Data]]
+
+## [[14 - ES Modules and Structuring Larger Apps]]
+
+## [[15 - Final Round of Exercises]]
+
+
+
+
 
 
 
